@@ -1,5 +1,5 @@
 # Octus Aadhaar Offline SDK 
-![version](https://img.shields.io/badge/version-v2.0.0-blue)
+![version](https://img.shields.io/badge/version-v2.0.3-blue)
 
 Aadhaar Paperless Offline eKYC is a secure and shareable document which can be used by any Aadhaar holder for offline verification of identification. The Aadhaar Offline document can be obtained from the UIDAI website. This SDK provides a simple plugin to your mobile App which allows the user to seamlessly share their offline Aadhaar file with the service provider. 
 
@@ -110,7 +110,7 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.6'
    
     // octus aadhar offline Core Dependency
-    implementation 'com.frslabs.android.sdk.octus:aadhaaroffline:2.0.0'
+    implementation 'com.frslabs.android.sdk.octus:aadhaaroffline:2.0.3'
     
     // OPTIONAL - Required if transaction based billing is enabled
     //Zip
