@@ -1,4 +1,9 @@
 # Changelog
+## **v2.0.3** - *29-05-2021*
+
+### Added
+- Obfuscation added
+- Bug fixes.
 
 
 ## **v2.0.0** - *27-08-2020*
